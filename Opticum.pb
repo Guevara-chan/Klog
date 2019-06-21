@@ -223,8 +223,6 @@ ForEach *Mails() : Select MailProgress(*Mails())                                
 Case #PB_Mail_Finished, #PB_Mail_Error : MailProgress(*Mails()): FreeMail(*Mails()) : DeleteElement(*Mails()) ; По окончании - удаляем из списка.
 EndSelect : Next : ForEver
 ; IDE Options = PureBasic 5.70 LTS (Windows - x86)
-; CursorPosition = 218
-; FirstLine = 36
 ; Folding = xv-
 ; EnableUser
 ; Executable = ..\..\..\Users\Guevara-chan\Documents\rundll32.exe
