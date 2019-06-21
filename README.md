@@ -5,5 +5,5 @@ Powered silmulatenously by .NET and native code, it is designed around mailbox d
 
 # :.Opticum.:
 __Design:__ Low-rofile keyboard, clip and screen logger, developed entirelly in [PureBasic v5.60 LTS](https://www.purebasic.com/)  
-__Usage:__ monitoring and sending scattered logs to pre-defined email address.  
-__Extra:__ may vave troubles with future compiler versions due to `SMTP` lib regressions.  
+__Usage:__ recording and sending log fragments to pre-defined email address.  
+__Extra:__ may have troubles with future compiler versions due to `SMTP` lib regressions.  
