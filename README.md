@@ -10,5 +10,10 @@ __Extra:__ may have troubles with future compiler versions due to `SMTP` lib reg
 
 # :.Demagnifier.:
 __Design:__ mass message-retriever, implemented in pure [Boo v0.9.7.0](https://github.com/boo-lang/boo).  
-__Usage:__ obtaining and sorting __Opticum__ log fragments from pre-defined email address to local storage.  
+__Usage:__ gathering and sorting __Opticum__ log fragments from pre-defined email address to local storage.  
 __Extra:__ requires .NET 4.0 framework to run. Confirmed as being mostly compatible with [Mono 4.6.2+](https://github.com/mono/mono).
+
+# :.Re-port.:
+__Design:__ __Opticum__ log reconverter and beatifier, written in [PureBasic v5.60 LTS](https://www.purebasic.com/)  
+__Usage:__ merging selected subsection of __Demagnifier__-provided data scraps into single HTML-based report.
+__Extra:__ requires [Chromium](https://github.com/chromium/chromium)-based browser to view properly render resulting document.  
