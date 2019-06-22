@@ -17,3 +17,6 @@ __Extra:__ requires .NET 4.0 framework to run. Confirmed as being mostly compati
 __Design:__ __Opticum__ log reconverter and beatifier, written in [PureBasic v5.60 LTS](https://www.purebasic.com/)  
 __Usage:__ merging selected subsection of __Demagnifier__-provided data scraps into single HTML report.  
 __Extra:__ requires [Chromium](https://github.com/chromium/chromium)-based browser to properly render resulting document.  
+
+# :.Brief sampling of observation results.:
+![image](https://user-images.githubusercontent.com/8768470/59960377-531c9000-94d0-11e9-87e7-cc132ed61603.png)
