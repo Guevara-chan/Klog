@@ -19,4 +19,4 @@ __Usage:__ merging selected subsection of __Demagnifier__-provided data scraps i
 __Extra:__ requires [Chromium](https://github.com/chromium/chromium)-based browser to properly render resulting document.  
 
 # :.Brief sampling of observation results.:
-![image](https://user-images.githubusercontent.com/8768470/59960377-531c9000-94d0-11e9-87e7-cc132ed61603.png)
+![image](https://user-images.githubusercontent.com/8768470/59960399-865f1f00-94d0-11e9-990a-640ac58411d7.png)
